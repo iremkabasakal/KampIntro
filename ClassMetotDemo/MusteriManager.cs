@@ -12,6 +12,7 @@ namespace ClassMetotDemo
 
         }
 
+
         public void MusteriListele(Musteri musteri)
         {
             Console.WriteLine("Müşteriler Listelendi");
